@@ -38,3 +38,17 @@ My professional experience, which I gained from working in other professions, is
 * russian - native
 * french - A1
 
+## Projects
+
+[Ticket-booking](https://github.com/AlenaSergeevnaFrolova/Ticket-booking)
+[Batman](https://github.com/AlenaSergeevnaFrolova/Batman)
+
+## Example of a task on Codewars 
+
+We need a function that can transform a number (integer) into a string.
+
+```javascript
+function numberToString(num) {
+  return num = String(num);
+};
+```
