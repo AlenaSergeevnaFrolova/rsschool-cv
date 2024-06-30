@@ -40,8 +40,8 @@ My professional experience, which I gained from working in other professions, is
 
 ## Projects
 
-[Ticket-booking](https://github.com/AlenaSergeevnaFrolova/Ticket-booking)
-[Batman](https://github.com/AlenaSergeevnaFrolova/Batman)
+* [Ticket-booking](https://github.com/AlenaSergeevnaFrolova/Ticket-booking)
+* [Batman](https://github.com/AlenaSergeevnaFrolova/Batman)
 
 ## Example of a task on Codewars 
 
