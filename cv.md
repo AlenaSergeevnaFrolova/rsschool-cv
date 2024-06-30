@@ -4,9 +4,9 @@
 
 ## Contact Information
 
-Email: alenkakiri90@gmail.com
-Phone: +995591880224
-Discord: Alena (@AlenaSergeevnaFrolova)
+###### Email: alenkakiri90@gmail.com
+###### Phone: +995591880224
+###### Discord: Alena (@AlenaSergeevnaFrolova)
 
 ## Objective and Priorities
 
